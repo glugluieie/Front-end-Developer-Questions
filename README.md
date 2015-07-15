@@ -4,7 +4,6 @@ Adicione uma resposta abaixo da pergunta.
 
 ## <a name='toc'>Tabela de Conteúdos</a>
 
-  1. [Contribuintes Originais](#contributors)
   1. [Questões Gerais](#general)
   1. [Questões de HTML](#html)
   1. [Questões de CSS](#css)

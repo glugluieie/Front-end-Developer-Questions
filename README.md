@@ -1,6 +1,6 @@
 #Questões para nivelamento e apreendizagem profissionais Front-end
 
-Adicione uma resposta abaixo da pergunta.
+Adicione uma resposta abaixo da pergunta, Caso a pergunta seja pessoal a ignore.  
 
 ## <a name='toc'>Tabela de Conteúdos</a>
 
